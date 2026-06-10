@@ -1,5 +1,5 @@
 FlagEmbedding
-vllm==0.7.1
+vllm==0.22.0
 jinja2
 datasets
 sentencepiece
